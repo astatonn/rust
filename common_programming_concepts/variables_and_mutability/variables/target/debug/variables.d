@@ -1,0 +1,1 @@
+/home/joomla/Documents/rust/common_programming_concepts/variables_and_mutability/variables/target/debug/variables: /home/joomla/Documents/rust/common_programming_concepts/variables_and_mutability/variables/src/main.rs
